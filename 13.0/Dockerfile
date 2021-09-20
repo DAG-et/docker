@@ -1,5 +1,5 @@
 FROM ubuntu:bionic
-MAINTAINER Odoo S.A. <info@odoo.com>
+MAINTAINER Digital Advisory Group AG <hello@digitaladvisorygroup.io>
 
 SHELL ["/bin/bash", "-xo", "pipefail", "-c"]
 
